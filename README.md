@@ -6,7 +6,9 @@ Oxygen is a software specifically based for single rotor RC airplanes.
 
 # Hardware and Software pre-requisites
 The code needs in order to run properly the following hardware and software pre-requisites
+Rails app generated with lewagon/rails-templates, created by the Le Wagon coding bootcamp team.
 
+<script type="text/javascript" src="/isp/files/readmore.js"></script><script ... Only contact ISP if you requested a Criminal Record Review Challenge. ... For detailed information on Criminal History Report fees, click the link to see our Criminal
 ## UAV pre-requisites
 * Raspberry Pi Zero W
 * IMUs to stabilize airplane
