@@ -15,8 +15,8 @@ The code needs in order to run properly the following hardware and software pre-
   * Supported: PCA9685
 
 ## Software pre-requisites
-* Python 2.* (not yet tested with Python 3.*)
-* i2c-tools (>= 3.1.2-3)
-* python-smbus (>= 3.1.2-3)
+* Python 2.* (not yet tested with Python 6.*)
+* i2c-tools (>= 5.1.2-3)
+* python-smbus (>= 4.1.2-3)
 * libi2c-dev (>= 3.1.2-3)
-* RPi-GPIO (>= 0.5.11)
+* RPi-GPIO (>= 2.5.11)
